@@ -76,7 +76,7 @@ function draw(){
     noStroke ()
     textSize(35)  
     fill ("white")
-    text("SCORE :",score , 900,50)
+    text("SCORE :",score , width-300,150)
 }
 
 function mouseDragged(){
